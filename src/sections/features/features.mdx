@@ -1,0 +1,17 @@
+import Feature1 from './feature1.mdx'
+import Feature2 from './feature2.mdx'
+import Feature3 from './feature3.mdx'
+
+<ContainerWrapper
+  sx={{
+    background: theme => theme.colors['backgroundFeatures']
+  }}
+>
+  <ScrollAnimation animateIn="fadeIn">
+    <FeaturesWrapper>
+      <Feature1 {...props} />
+      <Feature2 {...props} />
+      <Feature3 {...props} />
+    </FeaturesWrapper>
+  </ScrollAnimation>
+</ContainerWrapper>

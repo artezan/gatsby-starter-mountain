@@ -1,0 +1,50 @@
+---
+images: [general1.jpg]
+---
+
+<ContainerWrapper
+  sx={{
+    background: theme => theme.colors['backgroundGeneral'] || theme.colors['background']
+  }}
+>
+<ScrollAnimation animateIn="fadeInRight" >
+
+  <Div
+    sx={{
+      display: 'flex',
+      justifyContent: 'center',
+      flexWrap: 'wrap',
+      padding: ['0', '0', '24px']
+    }}
+  >
+    <Div
+      sx={{
+        marginTop: '3%'
+      }}
+    >
+      <h3>General Section</h3>
+      <p> Example of generic section with IMG </p>
+      <p> Example of Button theme with specific themes <ButtonTheme themes={['bulma', 'deep']} > Toggle </ButtonTheme> </p>
+     
+    </Div>
+    <Div
+      sx={{
+        width: '100%',
+        display: 'flex',
+        justifyContent: 'center'
+      }}
+    >
+      <ImgGatsby
+        fluid={props.imagesFluid['general1.jpg']}
+        sx={{
+          width: '100%',
+          maxWidth: '300px',
+          borderRadius: '20px',
+          height: 'auto',
+          boxShadow: theme => theme.colors.imgShadow
+        }}
+      />
+    </Div>
+  </Div>
+  </ScrollAnimation>
+</ContainerWrapper>
