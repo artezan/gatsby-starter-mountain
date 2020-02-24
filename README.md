@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <img style="width: 40%; height: auto" src="https://gatsby-starter-mountain.netlify.com/logo.svg" />
+  <img style="width: 30%; height: auto" src="https://gatsby-starter-mountain.netlify.com/logo.svg" />
 </p>
 <h1 align="center">
   Mountain Starter Theme
