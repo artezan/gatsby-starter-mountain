@@ -12,6 +12,12 @@ Kick off your project with this Mountain Starter Theme boilerplate. This starter
 
 [Live Preview](https://gatsby-starter-mountain.netlify.com/)
 
+### WordPress MDX Plugin Theme
+
+With this theme/plugin you can use WP, MDX or both
+
+[gatsby-theme-wordpress-mdx](https://github.com/artezan/gatsby-theme-wordpress-mdx)
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
