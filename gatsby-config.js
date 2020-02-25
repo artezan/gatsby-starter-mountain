@@ -9,7 +9,7 @@ module.exports = {
     title: 'MDX WP',
     description: 'It is a WP with MDX blog ',
     keywords: ['GatsbyJs', 'React', 'theme-ui'],
-    siteURL: 'https://artezan-blog.netlify.com', // No trailing slash allowed!
+    siteURL: 'https://gatsby-starter-mountain.netlify.com', // No trailing slash allowed!
     siteImage: '/preview.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@CArtezan',
     author: {

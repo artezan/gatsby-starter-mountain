@@ -14,7 +14,7 @@ Kick off your project with this Mountain Starter Theme boilerplate. This starter
 
 ### WordPress MDX Plugin Theme
 
-With this theme/plugin you can use WP, MDX or both
+With this theme/plugin you can use WP, MDX or both 🤯
 
 [gatsby-theme-wordpress-mdx](https://github.com/artezan/gatsby-theme-wordpress-mdx)
 
